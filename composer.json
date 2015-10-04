@@ -1,0 +1,17 @@
+{
+    "name": "cgcookie/edd-product-updates",
+    "type": "wordpress-plugin",
+    "description": "Enable product update emails for EDD",
+    "keywords": [ "edd", "product", "updates", "email", "plugin"],
+    "homepage": "http://easydigitaldownloads.com",
+    "authors": [
+        {
+            "name": "Evan Luzi",
+            "email": "",
+            "homepage": ""
+        }
+    ],
+    "require": {
+        "composer/installers": "~1.0.6"
+    }
+}
